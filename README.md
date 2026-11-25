@@ -1,0 +1,1 @@
+Project: AI Training Week 1 - version B
