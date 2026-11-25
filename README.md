@@ -1,1 +1,1 @@
-Project: AI Training Week 1
+Project: AI Training Week 1 - Conflict Resolved
