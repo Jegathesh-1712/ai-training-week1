@@ -61,3 +61,27 @@ feature/data-analysis
 Author
 
 Python & Data Engineering - Week 1 Day 4 Assessment
+
+## Task 1 - Python Performance Comparison
+
+- Created a Jupyter notebook.
+- Compared list comprehension and for-loop execution time.
+- Documented when to use Python files and Jupyter notebooks.
+
+## Task 2 - Employee Data Analysis
+
+- Loaded employee data using Pandas.
+- Explored dataset rows and columns.
+- Checked missing values and duplicate records.
+- Analysed employee salaries by department.
+- Analysed employee distribution by city.
+- Created five business questions.
+- Prepared a data dictionary.
+
+## Tools Used
+
+- Python
+- Pandas
+- Jupyter Notebook
+- Visual Studio Code
+- Git and GitHub
